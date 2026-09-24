@@ -1,1 +1,2 @@
-GOOGLE_API_KEY=sua_nova_chave_aqui
+import os
+GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")  # ✅ Busca do Render
