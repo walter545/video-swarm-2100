@@ -1,0 +1,1 @@
+GOOGLE_API_KEY=sua_nova_chave_aqui
